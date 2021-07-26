@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\rishi\Desktop\coco</_PublishTargetUrl>
+    <History>True|2021-06-16T11:56:51.1662528Z;True|2021-06-16T17:11:25.2698963+05:30;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=RISHI\SQLEXPRESS%3bDatabase=Coco%3bTrusted_Connection=True%3bMultipleActiveResultSets=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Coco.Data.ApplicationDbContext">
+      <Value>Server=RISHI\SQLEXPRESS%3bDatabase=Coco%3bTrusted_Connection=True%3bMultipleActiveResultSets=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

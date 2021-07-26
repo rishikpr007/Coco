@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\rishi\source\repos\Coco\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-06-16T11:25:17.0234850Z;</History>
+  </PropertyGroup>
+</Project>
